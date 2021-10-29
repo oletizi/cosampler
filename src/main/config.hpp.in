@@ -1,0 +1,11 @@
+//
+// Created by Orion Letizi on 10/28/21.
+//
+
+#ifndef OSAMPLER_CONFIG_HPP
+#define OSAMPLER_CONFIG_HPP
+
+#define osampler_VERSION_MAJOR @osampler_VERSION_MAJOR@
+#define osampler_VERSION_MINOR @osampler_VERSION_MINOR@
+
+#endif //OSAMPLER_CONFIG_HPP
