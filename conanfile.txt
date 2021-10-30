@@ -1,0 +1,5 @@
+[requires]
+mpc/0.1
+
+[generators]
+cmake
